@@ -4,6 +4,8 @@
 
 - [Instructions](#instructions)
 - [Contributing](#contributing)
+- [Installation](#installation)
+- [Gameplay](#gameplay)
 
 ## Instructions
 
@@ -18,3 +20,12 @@ For detailed instructions on how to get started, check out this [guide](https://
 ## Contributing
 
 This repository is the starter code for _all_ Udacity students. Therefore, we most likely will not accept pull requests.
+
+## installation
+
+Download all files to your computer. If inside a zip file extract files. Double click on index.html and open in browser.
+
+## Gameplay
+
+Use your up, down, left and right arrows to move around. The aim of the game is to get to the water without hitting the bugs.
+Once you get to the water the game will reset your position.
